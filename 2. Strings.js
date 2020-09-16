@@ -1,4 +1,4 @@
-var nombre = 'Sacha', apellido = 'Lifszyc'
+var nombre = 'Yojan', apellido = 'Hungria'
 
 var nombreEnMayusculas = nombre.toUpperCase()
 var apellidoEnMinusculas = apellido.toLowerCase()
